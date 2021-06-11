@@ -1,0 +1,13 @@
+img {
+	width: 250px;
+}
+
+.col {
+    width: 300px;
+    text-align: center;
+}
+.container {
+	text-align: center;
+	text-align: -webkit-center;
+    width: 90%;
+}
